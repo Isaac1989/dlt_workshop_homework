@@ -1,2 +1,2 @@
-dlt[duckdb,bigquery]
+dlt[duckdb,bigquery,filesystem]>=1.6.1
 alive-progress
