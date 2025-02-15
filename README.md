@@ -1,7 +1,8 @@
 # Instructions
 - Create a .dlt folder in the working directory you that contains `filesystem_pipeline.py`
 - Create these files: `secrets.toml`, and `config.toml`
-- Enter this in secrets.toml```bash
+- Enter this in secrets.toml:
+  >
   [destination.bigquery]
   location = "US" # Change to actual location
   [destination.bigquery.credentials]
