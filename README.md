@@ -8,5 +8,4 @@
   project_id="<Google-cloud-console-project-id-here>"
   private_key="<private-key-here>"
   client_email="<client-email-here>"
-  ```
 - The run `python filesystem_pipeline.py`
